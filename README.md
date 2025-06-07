@@ -41,14 +41,14 @@ Cut the files in the 'HARDWARE'>'output'>'LASER_CUT'>'BULK_CUT':
 
 **Hint**: if you order them like this:
 
-##################################################
-######## SW ######################## PDL_03 ######
-#################################### PDL_04 ######
-####### PDL_01 ## PD_02 ##########################
-##################################################
+######################################
+####### SW ############## PDL_03 #####
+######################### PDL_04 #####
+####### PDL_01 ## PD_02 ##############
+######################################
 
 They fit snuggly on one sheet. 
-**Another hint**: If the bed you are cutting on is not super-duper-flat, you might want to cut the parts in smaller bulk sizes and "calibrate" the laser in-between, alternatively move the sheet and keep the origin of the laser close to its calibration point. This differs from laser cutter to laser cutter and might not be applicable to yours)
+**Another hint**: If the bed you are cutting on is not super-duper-flat, you might want to cut the parts in smaller bulk sizes and "calibrate" the laser in-between, alternatively move the sheet and keep the origin of the laser close to its calibration point. This differs from laser cutter to laser cutter and might not be applicable to yours.
 
 **Another another hint**: Remember to hold on to (most) of the small parts as well you will probably need them. For the very smallest components a few extra /spares are included in the "white space" of the cut file so that when your clumby hands and eyes innevitably lose some of them no worries you have a few extra. The smallest parts can also be cut seperatly: look for the CH.dxg file ('CH': Choking Hazards). 
 
