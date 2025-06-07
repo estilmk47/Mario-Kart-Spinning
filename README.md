@@ -41,11 +41,13 @@ Cut the files in the 'HARDWARE'>'output'>'LASER_CUT'>'BULK_CUT':
 
 **Hint**: if you order them like this:
 
+###################################### \n 
+####### SW ############## PDL_03 ##### \n
+######################### PDL_04 ##### \n
+####### PDL_01 ## PD_02 ############## \n
 ######################################
-####### SW ############## PDL_03 #####
-######################### PDL_04 #####
-####### PDL_01 ## PD_02 ##############
-######################################
+
+(This ascii art does not look good in the browser [open in a text editor ;)])
 
 They fit snuggly on one sheet. 
 **Another hint**: If the bed you are cutting on is not super-duper-flat, you might want to cut the parts in smaller bulk sizes and "calibrate" the laser in-between, alternatively move the sheet and keep the origin of the laser close to its calibration point. This differs from laser cutter to laser cutter and might not be applicable to yours.
